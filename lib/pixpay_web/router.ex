@@ -8,7 +8,7 @@ defmodule PixpayWeb.Router do
   scope "/api", PixpayWeb do
     pipe_through :api
 
-    get "/", WelcomeController, :index
+    get "/:filename", WelcomeController, :index
   end
 
   # Enables LiveDashboard only for development
