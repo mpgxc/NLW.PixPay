@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  💧 Elixir Study
+  💧 Elixir/Phoenix - NLW.PixPay
 </h4>
 
 <p align="center">
