@@ -16,5 +16,5 @@ defmodule Pixpay.Numbers do
     {:ok, %{result: result}}
   end
 
-  defp handle_exception_file({:error, __params}), do: {:error, "Entrada Inválida!"}
+  defp handle_exception_file({:error, __params}), do: {:error, %{message: "Entrada Inválida!"}}
 end
