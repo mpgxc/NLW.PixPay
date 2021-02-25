@@ -20,7 +20,7 @@
 
 <br>
 
-# Pixpay
+# 💰 Pixpay
 
 To start your Phoenix server:
 
