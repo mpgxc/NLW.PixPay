@@ -37,7 +37,7 @@ Esse projeto vai utilizar as seguintes tecnologias:
 - [Phoenix](https://www.phoenixframework.org/)
 
 
-### 💎 Elixir/Phoenix
+## 💎 Elixir/Phoenix
 
   * Official website: https://www.phoenixframework.org/
   * Guides: https://hexdocs.pm/phoenix/overview.html
